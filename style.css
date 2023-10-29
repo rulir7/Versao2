@@ -156,7 +156,7 @@ padding: 54px 14px;
   
   .itens {
     background-color: rgba(255, 255, 255, 0.8);
-    border: 1px solid rgba(0, 0, 0, 0.8);
+    border: #c7aa4c 0.5px solid;
     padding: 1rem;
     font-size: 30px;
     text-align: center;
