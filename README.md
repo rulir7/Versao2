@@ -18,6 +18,7 @@ O projeto consiste em uma apresentação sobre a série "This is Us", uma série
 ## Como Visualizar
 
 Para visualizar a apresentação, basta abrir o arquivo HTML no seu navegador preferido. Certifique-se de manter os arquivos CSS e a biblioteca AOS no mesmo diretório para garantir o correto funcionamento das animações.
+Pode ser acessado através do link: https://tius.vercel.app 
 
 ## Contribuição
 
