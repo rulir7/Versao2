@@ -9,10 +9,11 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - HTML5
 - CSS
 - AOS (Animate On Scroll Library)
+- Javascript
 
 ## Sobre o Projeto
 
-O projeto consiste em uma apresentação sobre a série "This is Us", uma série dramática que segue a vida e as famílias de diversas pessoas que nasceram no mesmo dia. A apresentação foi elaborada utilizando HTML5 e CSS para estruturação e estilização, e a biblioteca AOS (Animate On Scroll) foi utilizada para adicionar animações de scroll aos elementos da página, proporcionando uma experiência mais interativa ao usuário.
+O projeto consiste em uma apresentação sobre a série "This is Us", uma série dramática que segue a vida e as famílias de diversas pessoas que nasceram no mesmo dia. A apresentação foi elaborada utilizando HTML5, CSS e JavaScript para estruturação e estilização, e a biblioteca AOS (Animate On Scroll) foi utilizada para adicionar animações de scroll aos elementos da página, proporcionando uma experiência mais interativa ao usuário.
 
 ## Como Visualizar
 
